@@ -1,4 +1,4 @@
-const apiKey = "10821baea05e423ea506c68efd4e41f0";  // <-- यहाँ अपना NewsAPI API Key डालो
+const apiKey = "d0037af85d76faae5f5dd6e7d076f49a";  // <-- यहाँ अपना NewsAPI API Key डालो
 const country = "us";  // Change as per your requirement
 
 async function fetchNews() {
